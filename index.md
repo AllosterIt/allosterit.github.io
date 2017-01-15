@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Genalico Logo](/Logaster/blob/master/Logaster-1-gplus-sharedImage-800px.png)
+![Genalico Logo](Logaster/Logaster-1-gplus-sharedImage-800px.png)
 Format: ![Alt Text](url)
 
 # Genalico : Genome Analysis for Health
