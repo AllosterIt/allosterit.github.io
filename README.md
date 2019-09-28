@@ -1,2 +1,2 @@
-# genalico.github.io
-Genalico : Genome Analysis for Health
+# allosterit.github.io
+
