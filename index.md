@@ -11,6 +11,13 @@ Our code is available on the GitHub site of the organisation:
 Below is a list of our previous work in this field.
 
 For further information, please contact us via email: <allosterit@jkleinj.eu>
+ 
+
+O.G. Carmona, J. Kleinjung, D. Anastasiou, C. Oostenbrink, F. Fraternali<br>
+*AllohubPy: Detecting allosteric signals through an information-theoretic approach.*<br>
+**Journal of Molecular Biology** (2025) 168969.<br>
+[doi](https:doi.org/10.1016/j.jmb.2025.168969)
+
 
 J.A. Macpherson, A. Theisen, L. Masino, L. Fets, P.C. Driscoll, V. Encheva, A.P. Snijders, S.R. Martin,<br>
 J. Kleinjung, P. E. Barran, F. Fraternali, D. Anastasiou<br>
